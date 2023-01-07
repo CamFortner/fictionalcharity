@@ -1,0 +1,26 @@
+
+body {
+    background-image: url(images/oldpaper.jpeg);
+}
+
+p {
+    margin-top: 40px;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 90px;
+    font-size: xx-large;
+    text-shadow: 78cm;
+    text-size-adjust: 300px;
+    color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: rgb(231, 231, 231);
+    text-align: center;
+}
+
+
+.firstimage {
+    margin-top: 80px;
+    margin-left: 370px;
+}
